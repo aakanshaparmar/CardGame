@@ -17,7 +17,8 @@ public class PairsGameMainActivity extends Activity {
     int noOfClicks=0;
     int a,no,x,y,i,count1=0,count2=0,count3=0,count4=0,count5=0,count6=0,count7=0,count8=0;
     int b1c=0, b2c=0, b3c=0, b4c=0, b5c=0, b6c=0, b7c=0, b8c=0; 
-    int b9c=0, b10c=0, b11c=0, b12c=0, b13c=0, b14c=0, b15c=0, b16c=0; 
+    int b9c=0, b10c=0, b11c=0, b12c=0, b13c=0, b14c=0, b15c=0, b16c=0, b17=0, b18=0;
+	int b19=1;
      
     @Override
 	protected void onCreate(Bundle savedInstanceState) {
